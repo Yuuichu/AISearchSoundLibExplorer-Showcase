@@ -2,7 +2,6 @@
 
 Natural-language retrieval over a large sound-effects library: describe the sound, get the file **and the time range inside it**, audition it, and drop it into the session — all running locally, with the source library strictly read-only.
 
-<!-- Hero image: see screenshots/README.md -->
 
 ## Why I Built This
 
@@ -57,7 +56,7 @@ query parsing  (optional LLM query planning — disabled by default)
 
 ## Demo
 
-`demo/benchmark-queries.md` describes the evaluation query set. Screenshots and a live demo are pending — see `screenshots/README.md`.
+`demo/benchmark-queries.md` documents the evaluation query set and how retrieval quality is gated.
 
 Selected source is in `selected-code/` (ranking/fusion, embeddings, vector store, and the REAPER client).
 
