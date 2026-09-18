@@ -2,7 +2,6 @@
 
 Natural-language retrieval over a large sound-effects library: describe the sound, get the file **and the time range inside it**, audition it, and drop it into the session — all running locally, with the source library strictly read-only.
 
-
 ## Why I Built This
 
 Sound-effects libraries grow past the point where filenames and folder structure can carry the search. A designer knows they want "heavy rusty metal gate opening slowly", but the library knows `MTL_GATE_Rusty_Open_01.wav`. The usual answers are tag discipline (which decays), or uploading the library to a cloud service (which is unacceptable for licensed or client material).
@@ -54,12 +53,6 @@ query parsing  (optional LLM query planning — disabled by default)
 - **LLM where it belongs.** Query planning only, disabled by default, and cloud providers receive query text alone — never audio, and never the library index.
 - **Architecture decisions are written down as ADRs** (see `docs/adr-summary.md`), including the ones that constrain future work.
 
-## Demo
-
-`demo/benchmark-queries.md` documents the evaluation query set and how retrieval quality is gated.
-
-Selected source is in `selected-code/` (ranking/fusion, embeddings, vector store, and the REAPER client).
-
 ## Architecture
 
 `docs/architecture.md` covers the layering and boundaries; `docs/adr-summary.md` summarises the four architectural decisions; `docs/reaper-integration.md` covers the DAW client; `docs/evaluation-gate.md` covers how retrieval quality is measured and gated.
@@ -83,7 +76,7 @@ These are stated deliberately, because retrieval quality is easy to overclaim:
 
 This is a portfolio showcase repository. The full development repository remains private.
 
-Included: architecture and ADR summaries, the evaluation-gate description, the ranking/embedding/vector-store code, the REAPER client, and the benchmark query set. Excluded: the product specification (`PLAN.md`), deployment configuration, local data directories, virtual environments and model weights.
+Included: architecture and ADR summaries, the evaluation-gate description, the ranking/embedding/vector-store code and the REAPER client in `selected-code/`, and the benchmark query set in `examples/benchmark_queries.json`. Excluded: the product specification (`PLAN.md`), deployment configuration, local data directories, virtual environments and model weights.
 
 ## Tech Stack
 

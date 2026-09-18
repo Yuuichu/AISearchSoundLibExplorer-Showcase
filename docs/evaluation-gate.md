@@ -12,7 +12,7 @@ This is the most important document in the showcase, because retrieval quality i
 
 ## 1. What exists today
 
-The repository ships a **100-query synthetic query set** (`benchmark/queries/benchmark_queries.json`), each entry shaped as:
+The repository ships a **100-query synthetic query set** (`examples/benchmark_queries.json`), each entry shaped as:
 
 ```json
 {
