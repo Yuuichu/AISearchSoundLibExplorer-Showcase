@@ -1,0 +1,602 @@
+[
+  {
+    "id": "Q001",
+    "query": "realistic close heavy rusty metal gate opening slowly",
+    "category": "heavy",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q002",
+    "query": "dry studio heavy rusty metal gate opening slowly",
+    "category": "heavy",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q003",
+    "query": "distant exterior heavy rusty metal gate opening slowly",
+    "category": "heavy",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q004",
+    "query": "small detailed heavy rusty metal gate opening slowly",
+    "category": "heavy",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q005",
+    "query": "realistic close small hollow plastic object dropping onto wood",
+    "category": "small",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q006",
+    "query": "dry studio small hollow plastic object dropping onto wood",
+    "category": "small",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q007",
+    "query": "distant exterior small hollow plastic object dropping onto wood",
+    "category": "small",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q008",
+    "query": "small detailed small hollow plastic object dropping onto wood",
+    "category": "small",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q009",
+    "query": "realistic close fast mechanical insect wings",
+    "category": "fast",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q010",
+    "query": "dry studio fast mechanical insect wings",
+    "category": "fast",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q011",
+    "query": "distant exterior fast mechanical insect wings",
+    "category": "fast",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q012",
+    "query": "small detailed fast mechanical insect wings",
+    "category": "fast",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q013",
+    "query": "realistic close close dry cardboard rummaging",
+    "category": "close",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q014",
+    "query": "dry studio close dry cardboard rummaging",
+    "category": "close",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q015",
+    "query": "distant exterior close dry cardboard rummaging",
+    "category": "close",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q016",
+    "query": "small detailed close dry cardboard rummaging",
+    "category": "close",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q017",
+    "query": "realistic close large body impact on concrete",
+    "category": "large",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q018",
+    "query": "dry studio large body impact on concrete",
+    "category": "large",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q019",
+    "query": "distant exterior large body impact on concrete",
+    "category": "large",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q020",
+    "query": "small detailed large body impact on concrete",
+    "category": "large",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q021",
+    "query": "realistic close distant urban traffic rumble",
+    "category": "distant",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q022",
+    "query": "dry studio distant urban traffic rumble",
+    "category": "distant",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q023",
+    "query": "distant exterior distant urban traffic rumble",
+    "category": "distant",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q024",
+    "query": "small detailed distant urban traffic rumble",
+    "category": "distant",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q025",
+    "query": "realistic close rifle magazine inserted quickly",
+    "category": "rifle",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q026",
+    "query": "dry studio rifle magazine inserted quickly",
+    "category": "rifle",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q027",
+    "query": "distant exterior rifle magazine inserted quickly",
+    "category": "rifle",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q028",
+    "query": "small detailed rifle magazine inserted quickly",
+    "category": "rifle",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q029",
+    "query": "realistic close metal chain pulled under tension",
+    "category": "metal",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q030",
+    "query": "dry studio metal chain pulled under tension",
+    "category": "metal",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q031",
+    "query": "distant exterior metal chain pulled under tension",
+    "category": "metal",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q032",
+    "query": "small detailed metal chain pulled under tension",
+    "category": "metal",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q033",
+    "query": "realistic close wet footsteps on concrete",
+    "category": "wet",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q034",
+    "query": "dry studio wet footsteps on concrete",
+    "category": "wet",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q035",
+    "query": "distant exterior wet footsteps on concrete",
+    "category": "wet",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q036",
+    "query": "small detailed wet footsteps on concrete",
+    "category": "wet",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q037",
+    "query": "realistic close wooden door creak close",
+    "category": "wooden",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q038",
+    "query": "dry studio wooden door creak close",
+    "category": "wooden",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q039",
+    "query": "distant exterior wooden door creak close",
+    "category": "wooden",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q040",
+    "query": "small detailed wooden door creak close",
+    "category": "wooden",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q041",
+    "query": "realistic close small glass debris scatter",
+    "category": "small",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q042",
+    "query": "dry studio small glass debris scatter",
+    "category": "small",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q043",
+    "query": "distant exterior small glass debris scatter",
+    "category": "small",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q044",
+    "query": "small detailed small glass debris scatter",
+    "category": "small",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q045",
+    "query": "realistic close large fire crackle close",
+    "category": "large",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q046",
+    "query": "dry studio large fire crackle close",
+    "category": "large",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q047",
+    "query": "distant exterior large fire crackle close",
+    "category": "large",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q048",
+    "query": "small detailed large fire crackle close",
+    "category": "large",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q049",
+    "query": "realistic close underwater bubbles movement",
+    "category": "underwater",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q050",
+    "query": "dry studio underwater bubbles movement",
+    "category": "underwater",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q051",
+    "query": "distant exterior underwater bubbles movement",
+    "category": "underwater",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q052",
+    "query": "small detailed underwater bubbles movement",
+    "category": "underwater",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q053",
+    "query": "realistic close cloth jacket handling",
+    "category": "cloth",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q054",
+    "query": "dry studio cloth jacket handling",
+    "category": "cloth",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q055",
+    "query": "distant exterior cloth jacket handling",
+    "category": "cloth",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q056",
+    "query": "small detailed cloth jacket handling",
+    "category": "cloth",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q057",
+    "query": "realistic close paper pages turning fast",
+    "category": "paper",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q058",
+    "query": "dry studio paper pages turning fast",
+    "category": "paper",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q059",
+    "query": "distant exterior paper pages turning fast",
+    "category": "paper",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q060",
+    "query": "small detailed paper pages turning fast",
+    "category": "paper",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q061",
+    "query": "realistic close plastic bottle squeeze",
+    "category": "plastic",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q062",
+    "query": "dry studio plastic bottle squeeze",
+    "category": "plastic",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q063",
+    "query": "distant exterior plastic bottle squeeze",
+    "category": "plastic",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q064",
+    "query": "small detailed plastic bottle squeeze",
+    "category": "plastic",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q065",
+    "query": "realistic close industrial machine startup",
+    "category": "industrial",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q066",
+    "query": "dry studio industrial machine startup",
+    "category": "industrial",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q067",
+    "query": "distant exterior industrial machine startup",
+    "category": "industrial",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q068",
+    "query": "small detailed industrial machine startup",
+    "category": "industrial",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q069",
+    "query": "realistic close car engine idle exterior",
+    "category": "car",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q070",
+    "query": "dry studio car engine idle exterior",
+    "category": "car",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q071",
+    "query": "distant exterior car engine idle exterior",
+    "category": "car",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q072",
+    "query": "small detailed car engine idle exterior",
+    "category": "car",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q073",
+    "query": "realistic close monster growl aggressive",
+    "category": "monster",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q074",
+    "query": "dry studio monster growl aggressive",
+    "category": "monster",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q075",
+    "query": "distant exterior monster growl aggressive",
+    "category": "monster",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q076",
+    "query": "small detailed monster growl aggressive",
+    "category": "monster",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q077",
+    "query": "realistic close soft UI notification",
+    "category": "soft",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q078",
+    "query": "dry studio soft UI notification",
+    "category": "soft",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q079",
+    "query": "distant exterior soft UI notification",
+    "category": "soft",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q080",
+    "query": "small detailed soft UI notification",
+    "category": "soft",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q081",
+    "query": "realistic close ceramic cup place on table",
+    "category": "ceramic",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q082",
+    "query": "dry studio ceramic cup place on table",
+    "category": "ceramic",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q083",
+    "query": "distant exterior ceramic cup place on table",
+    "category": "ceramic",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q084",
+    "query": "small detailed ceramic cup place on table",
+    "category": "ceramic",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q085",
+    "query": "realistic close heavy stone scrape",
+    "category": "heavy",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q086",
+    "query": "dry studio heavy stone scrape",
+    "category": "heavy",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q087",
+    "query": "distant exterior heavy stone scrape",
+    "category": "heavy",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q088",
+    "query": "small detailed heavy stone scrape",
+    "category": "heavy",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q089",
+    "query": "realistic close snow footsteps slow",
+    "category": "snow",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q090",
+    "query": "dry studio snow footsteps slow",
+    "category": "snow",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q091",
+    "query": "distant exterior snow footsteps slow",
+    "category": "snow",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q092",
+    "query": "small detailed snow footsteps slow",
+    "category": "snow",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q093",
+    "query": "realistic close forest birds distant",
+    "category": "forest",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q094",
+    "query": "dry studio forest birds distant",
+    "category": "forest",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q095",
+    "query": "distant exterior forest birds distant",
+    "category": "forest",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q096",
+    "query": "small detailed forest birds distant",
+    "category": "forest",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q097",
+    "query": "realistic close electricity arc burst",
+    "category": "electricity",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q098",
+    "query": "dry studio electricity arc burst",
+    "category": "electricity",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q099",
+    "query": "distant exterior electricity arc burst",
+    "category": "electricity",
+    "relevant_file_ids": []
+  },
+  {
+    "id": "Q100",
+    "query": "small detailed electricity arc burst",
+    "category": "electricity",
+    "relevant_file_ids": []
+  }
+]
