@@ -1,5 +1,7 @@
 # Evaluation gate — how retrieval quality is measured (and not claimed)
 
+> **English** | [简体中文](evaluation-gate.zh-CN.md)
+
 This is the most important document in the showcase, because retrieval quality is the easiest thing in this project to overstate.
 
 ## The short version

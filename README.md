@@ -1,5 +1,7 @@
 # AI SFX Explorer — local-first semantic search for sound-effects libraries
 
+> **English** | [简体中文](README.zh-CN.md)
+
 Natural-language retrieval over a large sound-effects library: describe the sound, get the file **and the time range inside it**, audition it, and drop it into the session — all running locally, with the source library strictly read-only.
 
 ## Why I Built This

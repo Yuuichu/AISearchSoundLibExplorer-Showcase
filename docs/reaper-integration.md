@@ -1,5 +1,7 @@
 # REAPER integration
 
+> **English** | [简体中文](reaper-integration.zh-CN.md)
+
 The retrieval engine is only useful if it is reachable at the moment of editing. The REAPER client exists so a designer can search, audition and insert without leaving the DAW or switching to a browser.
 
 ## Requirements

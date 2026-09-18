@@ -1,5 +1,7 @@
 # Architecture
 
+> **English** | [简体中文](architecture.zh-CN.md)
+
 The governing rule is a **one-way dependency direction**:
 
 ```text

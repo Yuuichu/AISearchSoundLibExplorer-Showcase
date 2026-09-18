@@ -1,5 +1,7 @@
 # Architecture decision summaries
 
+> **English** | [简体中文](adr-summary.zh-CN.md)
+
 The repository keeps full ADRs; these are the decisions and, more usefully, what each one costs.
 
 ## ADR-001 — Qdrant over FAISS
